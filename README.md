@@ -68,4 +68,4 @@ To ensure the application is working correctly, follow these testing steps:
 1. Test Lose Condition: Intentionally guess wrong 6 times.
 - Expected Result: A "YOU LOST!" message appears revealing the correct word, the score resets to 0 (unless configured otherwise), and the "Play Again" button appears.
 6. Test Restart: Click the "Play Again" button.
-- Expected Result: The board resets with a new hidden word, the hangman image resets, and the keyboard buttons are re- enabled. 
+- Expected Result: The board resets with a new hidden word, the hangman image resets, and the keyboard buttons are re- enabled.
