@@ -18,5 +18,5 @@ High-Level Features:
 - Interactive Gameplay: Users input guesses through intuitive controls (e.g., clickable letters or text input). 
 - Visual Feedback: Dynamic display of guessed letters and progressive drawing of the hangman figure with each incorrect guess. 
 - Game State Management: Clear indication of win or loss conditions and option to restart or start a new game. 
-- Responsive Design: A web interface that adapts to different screen sizes and devices for seamless playability. 
+- Responsive Design: A web interface that adapts to different screen sizes and devices for seamless playability.
 - User-Friendly Interface: Simple controls and immediate visual responses to user actions to enhance engagement. 
